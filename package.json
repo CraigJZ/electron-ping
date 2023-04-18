@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/CraigJZ/electron-ping#readme",
   "devDependencies": {
-    "electron": "^18.3.7",
+    "electron": "^24.1.2",
     "electron-main-notification": "^1.0.1",
     "node-ping": "^0.1.0",
     "ping": "^0.2.3",
